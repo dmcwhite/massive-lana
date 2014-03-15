@@ -10,6 +10,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass'
 gem 'jquery-easing-rails'
 gem "font-awesome-rails"
+gem 'newrelic_rpm'
 
 group :development, :test do
      gem 'sqlite3'
