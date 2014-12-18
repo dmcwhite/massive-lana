@@ -12,6 +12,7 @@ gem 'bootstrap-sass'
 gem 'jquery-easing-rails'
 gem "font-awesome-rails"
 gem 'newrelic_rpm'
+gem 'sprockets', '2.11.0'
 
 group :development, :test do
      gem 'sqlite3'
